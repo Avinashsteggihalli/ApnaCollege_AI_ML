@@ -9,5 +9,10 @@
  * Pre-Requisite
  * Python
  * Data Science
+ * SQL
  * Mathematics
  * 
+
+ # Mind Map for the course
+
+ link : https://www.mindmeister.com/app/map/3840092744

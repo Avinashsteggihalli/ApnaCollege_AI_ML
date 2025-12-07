@@ -15,4 +15,4 @@
 
  # Mind Map for the course
 
- link : https://www.mindmeister.com/app/map/3840092744
+ link : https://www.mindmeister.com/3840092744/ai

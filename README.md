@@ -10,6 +10,7 @@
  * Python
  * Data Science
  * SQL
+ * HTML
  * Mathematics
  * 
 

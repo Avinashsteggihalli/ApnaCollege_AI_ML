@@ -251,3 +251,21 @@ DELIMITER ; -- after end of th code , make it as it was before (to semicolon)
 -- (to call)
 
 CALL check_balance(2);
+select * from accounts1;
+-- to drop it
+
+drop procedure if exists check_balance;
+-- to use return value
+DELIMITER $$
+
+CREATE PROCEDURE check_balance(IN acc_id INT, OUT bal DECIMAL(10,2))
+BEGIN
+    SELECT balance INTO bal
+    FROM accounts1
+    WHERE account_id = acc_id;
+END $$
+
+DELIMITER ;
+
+call check_balance(1, @balance);
+select @balance;

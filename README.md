@@ -12,7 +12,7 @@
  * SQL
  * HTML
  * Mathematics
- * 
+ * Machine Learning
 
  # Mind Map for the course
 

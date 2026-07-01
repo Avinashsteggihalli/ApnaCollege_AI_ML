@@ -12,7 +12,9 @@
  * SQL
  * HTML
  * Mathematics
- * Machine Learning
+ * Machine Learning 
+ * Terminal
+ * Git & Github
 
  # Mind Map for the course
 
